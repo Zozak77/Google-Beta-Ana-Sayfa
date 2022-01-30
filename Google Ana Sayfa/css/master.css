@@ -46,9 +46,10 @@ footer {
   background-color: #7cd1b8;
   float: left;
   /* margin-left: 2.5%; */
-  height: 98px;
+  height: 93px;
   text-align: center;
   line-height: 0.5;
+  padding-top: 5px;
 }
 
 .second-container {
@@ -60,6 +61,7 @@ footer {
   background-color: #3e8e7e;
   text-align: center;
   line-height: 0.25;
+  margin-bottom: 5px;
 }
 
 .third-container {
@@ -75,6 +77,10 @@ footer {
   width: 181px;
   display: inline;
   text-align: center;
-  margin-top: 5px;
+
   margin-left: 841px;
+}
+
+.subscribe {
+  margin-bottom: 5px;
 }
